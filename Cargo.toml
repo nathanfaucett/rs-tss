@@ -1,0 +1,11 @@
+[package]
+name = "tss"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["hardware", "tss", "task", "state", "segment"]
+description = "hardware specific task state segment"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-tss.git"
+homepage = "https://github.com/nathanfaucett/rs-tss"
