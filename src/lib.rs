@@ -6,7 +6,7 @@ pub mod x86_64;
 
 
 #[cfg(target_arch = "x86")]
-pub use x86::Tss;
+pub use x86::*;
 
 #[cfg(target_arch = "x86_64")]
-pub use x86_64::Tss;
+pub use x86_64::*;
